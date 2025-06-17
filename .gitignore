@@ -1,0 +1,12 @@
+# Ignore all Windows executables
+*.exe
+
+# Don't ignore the .gitignore file itself (remove this line)
+# .gitignore  <-- Remove this line; you usually want to track this file
+
+# Ignore VSCode workspace settings folder
+.vscode/
+
+# Ignore input and output files
+input.txt
+output.txt
